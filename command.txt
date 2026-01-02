@@ -1,6 +1,10 @@
 # one time each project to start git
 git init
-git add .
+
+* Every time to add git add .
+
+* Every time you commit
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/rasheduzzaman1978/grocery-project.git
